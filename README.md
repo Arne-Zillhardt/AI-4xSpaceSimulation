@@ -1,2 +1,2 @@
-# AISPaceSimulation
-AI for the game 4xspaceSimulation
+# AI - 4xSpaceSimulation
+AI for the game 4xSpaceSimulation
